@@ -2,7 +2,7 @@ CC = g++
 
 CXXFLAGS = -std=c++11 -Wall -g -fPIC 
 
-INCLUDES = -I./
+INCLUDES = -I./eigen-git-mirror/
 
 LIBDIR = 
 
